@@ -1,0 +1,4 @@
+/* src/index.css (or any global CSS file you're using) */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
